@@ -14,6 +14,11 @@ Sollte die Ausgabe "Hello World" sein, dann ist eure Entwicklungsumgebung richti
 2. Clont das Repository in eure Entwicklungsumgebung
 ![Image](img/VSCode.png)
 
+Alternative:
+![Image](img/VSCode_1.png)
+![Image](img/VSCode_2.png)
+
+
 3. Führt die test.py Datei aus
 ![Image](img/play.png)
 
