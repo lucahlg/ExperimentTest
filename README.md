@@ -8,7 +8,7 @@ Sollte die Ausgabe "Hello World" sein, dann ist eure Entwicklungsumgebung richti
 ## Anleitung
 
 1. Öffnet das GitHub Repository und kopiert den Link
-![Image](img/VSCode.png)
+![Image](img/Git.png)
 
 
 2. Clont das Repository in eure Entwicklungsumgebung
